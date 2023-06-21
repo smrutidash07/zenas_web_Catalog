@@ -1,3 +1,5 @@
-import steamlit
+import streamlit
+
+import snowflake.connector
 
 
